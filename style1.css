@@ -1,0 +1,188 @@
+
+ .background{
+    height:92%;
+    background-color:f3e1e1;
+    
+  }
+
+
+
+.allover {  
+    height: 100%;
+    padding:20px;
+    background-color: rgb(177, 141, 141);
+    width: 100%;
+  
+}
+
+.nav-link {
+
+    color:yellow !important;
+    font-style: oblique;
+}
+
+.navbar{
+ background-color: 7d5a5a;
+
+}
+
+ .left
+     {
+  
+     background-color:faf2f2;
+     width: 50%;
+     height:100%;
+     float: left;
+      }
+
+ .leftinside
+ { 
+       width: 80%;   
+ }
+
+ .bottom{
+    background-color:faf2f2 ;
+     width: 50%;
+     margin-left: 15%;
+     margin-top: 25%;
+     padding-left:40px;
+    
+ }
+
+ .right1
+    {
+     background-color:f3e1e1;
+     width:50%;
+     height:50%;
+     float: right;
+    }
+.right2
+    {
+     background-color:f1d1d1;
+     width: 50%;
+     height:50%;
+     float: right;
+    }
+
+ img 
+    { 
+    width: fit-content;
+    max-width: 250px;
+    height:40%;
+    margin-top: -35%;
+    margin-left: 540px;
+    padding-top: 10px;
+    border-radius: 100%;    
+    }
+
+h1{
+    text-align: center;
+    text-shadow: yellow;
+    font-size: 30px;
+    padding-top: 200px;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: rgb(186, 238, 173);
+    font-size: 40px;
+    font-style: italic;
+}
+ h3 {
+  font-size: 20px;
+  width: 40%;
+  font-style: oblique;
+  color: yellow;
+  background-color:  7d5a5a;
+  padding-left:40px;
+  margin-left: 135px;
+
+ }
+
+.button1{
+    font-size:20px;
+    
+    background-color:rgb(243, 166, 115);
+    padding: 6px 6px;
+    margin: 10px 150px 5px 30px;
+    
+} 
+
+.icons{
+    
+     float:left;
+     width:100%;
+     font-size: 20px;
+     padding: 10px 10px 10px 450px;
+     margin: 10px 10px 10px 10px;
+     display:inline-block;
+ 
+}
+
+.face{
+    
+    color:blue;
+}
+
+.twitter{
+   
+   color:cadetblue;
+ 
+
+}
+.instagram{
+ color:yellow;
+}
+
+.email{
+  color:red;
+
+}
+
+.box{
+
+  
+    width: 50%;
+    height: 100%;
+    padding-left: 20px;
+   
+}
+
+#mname{
+width: 90%;
+height: 40px;
+
+}
+
+#fname{
+    height: 25px;
+ 
+
+}
+#lname{
+    height: 25px;
+    
+}
+#sname{
+    height: 25px;
+}
+
+#sub{
+    height:28px;
+    padding-top: 2px;
+    margin-top: 6px;
+    width: 40%;
+}
+
+
+/*
+@media (min-width: 500px){
+    section#right1
+       {
+        background-color:rgb(189, 250, 189);
+        width:50%;
+        height:50%;
+        float: right;
+       }
+    }*/

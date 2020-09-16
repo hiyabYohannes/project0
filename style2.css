@@ -1,0 +1,56 @@
+
+ .background{
+    height:92%;
+    background-color:f3e1e1;
+    
+  }
+ 
+  .nonuse{
+    visibility: hidden;
+  }
+
+  .about2{
+   
+    color: 7d5a5a;
+    width:50% ;
+    height:10%;
+    background-color:f1d1d1;;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left:640px;
+    margin-right: 10px;
+    }
+
+  .about3{
+ 
+  background-color: yellow;
+  width:50% ;
+  height:10%;
+  background-color:f1d1d1;;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left:640px;
+  margin-right: 10px;
+  }
+
+  .about4{
+
+    width:50% ;
+    height:10%;
+    background-color:f1d1d1;;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left:640px;
+    margin-right: 10px;
+    }
+
+  .about5{
+  
+    width:50% ;
+    height:10%;
+    background-color:f1d1d1;;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left:640px;
+    margin-right: 10px;
+    }
